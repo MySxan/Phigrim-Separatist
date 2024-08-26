@@ -25,9 +25,9 @@ Follow the footsteps of Navigator Ring and explore the vast and boundless starry
 
 ### Community
 The game is connected with [Phizone](https://insider.phizone.cn/), which provides various ranked and storyboard community Phigros charts.
-The Phigros secondary creative charting community allows players to upload their scores, rate playable charts, and cheer for their favorite score!
-The local reading function allows players to import charts on their own, providing a free gaming experience~
-The activity mode provides limited backgrounds/titles, and players can also play current special songs and sheet music!
+The Phigros recreation charting community allows players to upload their scores, rate playable charts, and cheer for their best score!
+The local mode allows players to import charts, providing a free gaming experience~
+The activity mode provides limited backgrounds/titles through challenges, and players can access to the special-offered charts!
 
 ### Plot
 The plot is not the main element of Phigrim, the worldview is the cornerstone laid for the development of the event
