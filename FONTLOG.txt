@@ -1,0 +1,43 @@
+FONTLOG for Phigrim Separatist font.
+
+This file provides detailed information on the Phigrim Separatist font.
+This information should be distributed along with the Phigrim Separatist font(s) and any
+derivative works.
+
+
+Basic Font Information
+
+Phigrim Separatist is an art fontcreated for the community rhythm game Phigrim, designed
+by MySxan. Inspired by Hotaru's game UI draft.
+The font can be used in various design situation like headline, titling, poster creation and
+graphic display. Feel free to use it in graphic design.
+
+
+ChangeLog
+
+25 Aug 2024 (MySxan Arcnith) Phigrim Separatist v1.2
+- Initial release
+- Open-source
+- New glyphs for math symbol, Latin Pro and Greek display
+
+24 Aug 2024 (MySxan Arcnith) Phigrim Separatist v1.1
+- Rename project
+- Avaliable for basic drawing display
+- Fixed connections that may caused display errors on some devices
+- Fixed incorrect placement of elements
+- Fixed an issue that may have caused fonts to not load properly in MasterGo
+
+15 Aug 2024 (MySxan Arcnith) Phigrim Separatly v1.0
+- Avaliable for numbers and capital Latin glyphs
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N),
+email (E), web-address (if you have one) (W) and
+description (D). This list is in alphabetical order.
+
+N: MySxan Arcnith
+E: mysxan@163.com
+W: none
+D: Original designer
