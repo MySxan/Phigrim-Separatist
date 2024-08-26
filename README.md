@@ -2,8 +2,8 @@
 
 
 ## A display font
-Phigrim Separatist is an art fontcreated for the community rhythm game Phigrim, designed by MySxan. Inspired by Hotaru's game UI draft.
-The font can be used in various design situation like headline, titling, poster creation and graphic display. Feel free to use it in graphic design.
+Phigrim Separatist is an art font created for the community rhythm game Phigrim, designed by MySxan. Inspired by Hotaru's game UI draft.
+The font can be used in various design situations like headlines, titling, poster creation, and graphic display. Feel free to use it in graphic design.
 
 
 ## License
@@ -17,15 +17,16 @@ MySxan Arcnith <mysxan@163.com>
 
 ## Support
 Please support our free font project and our game, Phigrim.  
-Phigrim is a community driven rhythm game developed by TeamPhigrim, based on the gameplay of Phigros.
+Phigrim is a community-driven rhythm game developed by TeamPhigrim, based on the gameplay of Phigros.
 
 ### Play
 Tap Flick Drag Hold is the basic element of the game, paired with dynamic and cunning judgment lines, bringing a more fun gaming experience!
 Follow the footsteps of Navigator Ring and explore the vast and boundless starry sky with the help of Engineer Yit
 
 ### Community
-The Phigros secondary creative score community allows players to upload their own score, rate their score, and cheer for their favorite score!
-The local reading function allows players to import spectra on their own, providing a free gaming experience~
+The game is connected with [Phizone](https://insider.phizone.cn/), which provides various ranked and storyboard community Phigros charts.
+The Phigros secondary creative charting community allows players to upload their scores, rate playable charts, and cheer for their favorite score!
+The local reading function allows players to import charts on their own, providing a free gaming experience~
 The activity mode provides limited backgrounds/titles, and players can also play current special songs and sheet music!
 
 ### Plot
