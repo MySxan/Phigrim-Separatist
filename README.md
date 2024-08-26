@@ -19,20 +19,20 @@ MySxan Arcnith <mysxan@163.com>
 Please support our free font project and our game, Phigrim.  
 Phigrim is a community driven rhythm game developed by TeamPhigrim, based on the gameplay of Phigros.
 
-//Play//
+### Play
 Tap Flick Drag Hold is the basic element of the game, paired with dynamic and cunning judgment lines, bringing a more fun gaming experience!
 Follow the footsteps of Navigator Ring and explore the vast and boundless starry sky with the help of Engineer Yit
 
-//Community//
+### Community
 The Phigros secondary creative score community allows players to upload their own score, rate their score, and cheer for their favorite score!
 The local reading function allows players to import spectra on their own, providing a free gaming experience~
 The activity mode provides limited backgrounds/titles, and players can also play current special songs and sheet music!
 
-//Plot//
+### Plot
 The plot is not the main element of Phigrim, the worldview is the cornerstone laid for the development of the event
 You can enjoy plot anecdotes outside of the game on multiple platforms such as TapTap Dynamics and Bilibili!
 
-//Contact&More//
+### Contact & More
 Email: phigrim@phigrim.cn
 Website: https://phigrim.cn/
 Taptap: https://www.taptap.cn/app/241790
