@@ -33,8 +33,8 @@ The plot is not the main element of Phigrim, the worldview is the cornerstone la
 You can enjoy plot anecdotes outside of the game on multiple platforms such as TapTap Dynamics and Bilibili!
 
 ### Contact & More
-Email: phigrim@phigrim.cn
-Website: https://phigrim.cn/
-Taptap: https://www.taptap.cn/app/241790
-Github: https://github.com/phigrim
-Bilibili: https://space.bilibili.com/1211830468
+Email: phigrim@phigrim.cn<br>
+Website: https://phigrim.cn/<br>
+Taptap: https://www.taptap.cn/app/241790<br>
+Github: https://github.com/phigrim<br>
+Bilibili: https://space.bilibili.com/1211830468<br>
