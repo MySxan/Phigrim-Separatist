@@ -15,6 +15,11 @@ graphic display. Feel free to use it in graphic design.
 
 ChangeLog
 
+3 Jun 2025 (MySxan Arcnith) Phigrim Separatist v1.3
+- Added support for Cyrillic glyphs to meet the MacOS Cyrillic encoding requirement.
+- Updated the typography of some Greek glyphs.
+- Fixed the filling errors of some glyphs.
+
 25 Aug 2024 (MySxan Arcnith) Phigrim Separatist v1.2
 - Initial release
 - Open-source
