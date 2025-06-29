@@ -2,7 +2,7 @@
 
 ## A display font
 
-Phigrim Separatist is an art font created for the community rhythm game Phigrim, inspired by Hotaru and designed by MySxan.  
+Phigrim Separatist is a geometric font created for the community rhythm game Phigrim, inspired by Hotaru and designed by MySxan.  
 The font can be used in various design situations like headlines, titling, poster, design, and graphic display.
 
 ## License
@@ -29,7 +29,7 @@ Follow the footsteps of Navigator Ring, and explore the boundless starry sky wit
 The game is connected with [Phizone](https://insider.phizone.cn/), which provides various ranked and storyboard fanmade Phigros charts.  
 This Phigros fanmade charting community allows you to upload your own charts, vote for playable charts, and share your best scores!  
 The local mode allows players to import charts, providing a free gaming experience~  
-There will be activities which provide limited backgrounds/titles through challenges, and players can access to the special-offered charts!
+There will be events which provide limited backgrounds/characters/themes through challenges, and players can access to the special-offered charts!
 
 ### Plot
 
